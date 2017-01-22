@@ -1,2 +1,3 @@
 # EasyRecycle
-Alexa Skill that helps decide which bin to put trash in
+Amazon Alexa Skill that helps decide which trash bins to put waste in.
+Coded at Hack Davis 2017
