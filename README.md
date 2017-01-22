@@ -8,7 +8,13 @@ Easy Recycle helps users quickly separate trash into the correct waste bins: com
 
 To initiate, say "Alexa, open Easy Recycle."
 
-"Do you need help sorting your trash?" "Yes" "Is it organic waste?" ...
+> "Do you need help sorting your trash?"
+
+"Yes"
+
+> "Is it organic waste?"
+
+...
 
 Alexa prompts the users with a variety of other questions to deduce what type of trash the user has. There are different recyclables and seven forms of plastic that Alexa differentiates between. The user and Alexa continue to interact until the correct type of trash bin is decided upon.
 
